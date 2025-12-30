@@ -1,8 +1,12 @@
 Darlink – Real Estate Application
 
+
 Darlink is a mobile-first real estate application designed to provide an elegant, luxurious, and efficient experience for users who want to buy, sell, rent, or explore properties and real estate–related events.
 
 The application focuses on usability, immersive technology, and ethical design while maintaining a premium look and feel.
+
+
+
 
 ✨ Main Features
 
@@ -22,6 +26,8 @@ The application focuses on usability, immersive technology, and ethical design w
 
 🎯 Advanced Filtering Highly customizable and luxury-focused filters for precise searching.
 
+
+
 📱 Technology Stack
 
 Frontend: Flutter, Dart
@@ -35,6 +41,8 @@ APIs:
 Google Maps API (location services and markers)
 
 Version Control: Git & GitHub
+
+
 
 🧩 Why Darlink?
 
@@ -52,6 +60,8 @@ Avoiding predatory monetization and hidden fees
 
 In short, Darlink represents the future of real estate applications.
 
+
+
 🔥 Project Goals
 
 Provide a seamless, modern, and engaging real estate experience
@@ -59,6 +69,8 @@ Provide a seamless, modern, and engaging real estate experience
 Allow users to complete their entire journey within the app
 
 Make real estate more accessible, immersive (through AR), and trustworthy
+
+
 
 🛠️ Development Philosophy
 
@@ -68,11 +80,15 @@ User-First Approach: Every feature is designed to solve a real user problem.
 
 Continuous Evolution: Planned future enhancements include machine learning recommendations, smart contracts, and advanced AR features.
 
+
+
 📅 Project Timeline
 
 Start Date: September 2024
 
 Expected Beta Release: May 2025
+
+
 
 📜 License
 
